@@ -5,8 +5,9 @@ This is a calculator of steps required to get desired friendship value in Pokém
 # Running
 
 In command-line:
-* On Windows, execute `.\PokeFriendCalc.exe` command.
-* On Unix-like operating systems, execute `./PokeFriendCalc` command.
+* On Windows, execute `.\pfc-dotnet6-win-<architecture>.exe` command (where `<architecture> is either `arm64`, `x64` or `x86`).
+* On Linux, execute `./pfc-dotnet6-linux-<architecture>` command (where `<architecture> is either `arm`, `arm64`, `x64`, `x86`, `musl-arm`, `musl-arm64`, or `musl-x64`).
+* On OS X , execute `./pfc-dotnet6-osx-<architecture>` command (where `<architecture> is either `arm64` or `x64`).
 
 # Building
 
