@@ -1,5 +1,7 @@
 This is a calculator of steps required to get desired friendship value in Pokémon games.
 
+![Screenshot](/screenshots/1.png)
+
 # Running
 
 In command-line:

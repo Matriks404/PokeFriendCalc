@@ -69,6 +69,8 @@ int dhap = ParseInt($"Enter desired happiness (default: {defaultDesiredHappiness
 
 int n = ParseInt($"How many iterations? (default: 1000): ", 1000, 1, Int32.MaxValue);
 
+Console.WriteLine();
+
 List<int> values = new List<int>();
 Random rnd = new Random();
 
